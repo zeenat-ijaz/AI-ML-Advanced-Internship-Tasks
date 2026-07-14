@@ -1,0 +1,32 @@
+DevelopersHub Corporation - Internal Knowledge Base (Sample Document)
+
+About DevelopersHub Corporation
+DevelopersHub Corporation is a technology company that runs an AI/ML Engineering Internship
+program. The internship gives interns hands-on experience with transformer models, ML
+pipelines, multimodal learning, conversational AI, and LLM applications.
+
+Internship Structure
+Interns are required to complete at least 3 out of 5 advanced tasks within the given timeline.
+The five advanced tasks cover: fine-tuning BERT for news classification, building an end-to-end
+scikit-learn ML pipeline for customer churn prediction, multimodal housing price prediction
+using CNNs and tabular data, building a context-aware RAG chatbot with LangChain, and
+auto-tagging support tickets using LLMs.
+
+Submission Requirements
+Each completed task must be uploaded to a GitHub repository and submitted via Google Classroom.
+Every submission should include a Jupyter Notebook or script file covering the problem
+statement, dataset loading and preprocessing, model development and training, evaluation with
+relevant metrics, visualizations where applicable, and a final summary of insights. The GitHub
+repository should have a clear name and a README.md describing the objective, methodology, and
+key results of the task.
+
+Tools and Technologies
+The internship uses Hugging Face Transformers for NLP tasks, scikit-learn for classical ML
+pipelines, LangChain for retrieval-augmented generation and conversational AI, Streamlit and
+Gradio for lightweight model deployment, CNNs for image feature extraction, and joblib for
+exporting trained pipelines.
+
+Remote Work Policy
+Interns may work remotely and are expected to manage their own schedules, as long as all
+deliverables are submitted by the deadline. Interns are encouraged to share completed work on
+GitHub and LinkedIn to build their professional portfolio.

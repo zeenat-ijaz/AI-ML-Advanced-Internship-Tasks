@@ -1,0 +1,17 @@
+{
+  "zero_shot_top1_accuracy": 0.4166666666666667,
+  "few_shot_top1_accuracy": 0.08333333333333333,
+  "n_samples": 12,
+  "candidate_labels": [
+    "Technical Support",
+    "Product Support",
+    "Customer Service",
+    "IT Support",
+    "Billing and Payments",
+    "Returns and Exchanges",
+    "Service Outages and Maintenance",
+    "Sales and Pre-Sales",
+    "Human Resources",
+    "General Inquiry"
+  ]
+}

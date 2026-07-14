@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.cache/
+*.log
+
+# Large model/data artifacts - not pushed to keep repo lightweight
+Task1_BERT_News_Classifier/model/
+Task3_Multimodal_Housing/data/Houses-dataset-master/
