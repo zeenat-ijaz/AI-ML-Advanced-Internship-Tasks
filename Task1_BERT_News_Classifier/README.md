@@ -1,5 +1,7 @@
 # Task 1: News Topic Classifier Using BERT
 
+**Notebook:** [bert_news_classifier.ipynb](bert_news_classifier.ipynb) (full problem statement, preprocessing, training code, evaluation, confusion matrix, and inference demo with executed outputs)
+
 ## Objective
 Fine-tune a transformer model (`bert-base-uncased`) to classify news headlines into one of four
 topic categories: **World, Sports, Business, Sci/Tech**.

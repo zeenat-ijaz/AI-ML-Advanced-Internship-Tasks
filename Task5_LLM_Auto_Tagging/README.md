@@ -1,5 +1,7 @@
 # Task 5: Auto Tagging Support Tickets Using LLM
 
+**Notebook:** [auto_tagging.ipynb](auto_tagging.ipynb) (full problem statement, dataset loading, zero-shot vs. few-shot-style tagging, evaluation and visualizations with executed outputs)
+
 ## Objective
 Automatically tag free-text support tickets into categories using a large language model,
 outputting the top 3 most probable tags per ticket.

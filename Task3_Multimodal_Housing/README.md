@@ -1,5 +1,7 @@
 # Task 3: Multimodal ML – Housing Price Prediction Using Images + Tabular Data
 
+**Notebook:** [multimodal_housing.ipynb](multimodal_housing.ipynb) (full problem statement, data/image loading, model architecture, evaluation, predicted-vs-actual and residual plots with executed outputs)
+
 ## Objective
 Predict housing prices using both structured (tabular) data and house images.
 

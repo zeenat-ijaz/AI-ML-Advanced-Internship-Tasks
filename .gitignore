@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .cache/
 *.log
+.ipynb_checkpoints/
 
 # Large model/data artifacts - not pushed to keep repo lightweight
 Task1_BERT_News_Classifier/model/

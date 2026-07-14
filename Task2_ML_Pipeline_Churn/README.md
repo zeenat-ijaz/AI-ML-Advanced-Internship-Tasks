@@ -1,5 +1,7 @@
 # Task 2: End-to-End ML Pipeline with Scikit-learn Pipeline API
 
+**Notebook:** [churn_pipeline.ipynb](churn_pipeline.ipynb) (full problem statement, preprocessing, GridSearchCV training, evaluation, confusion matrix/ROC visualizations with executed outputs)
+
 ## Objective
 Build a reusable, production-ready ML pipeline to predict customer churn.
 

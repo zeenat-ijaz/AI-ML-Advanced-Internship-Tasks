@@ -1,5 +1,7 @@
 # Task 4: Context-Aware Chatbot Using LangChain / RAG
 
+**Notebook:** [rag_chatbot_demo.ipynb](rag_chatbot_demo.ipynb) (full problem statement, retrieval pipeline, multi-turn conversation demo with executed outputs showing context memory)
+
 ## Objective
 Build a conversational chatbot that remembers context across turns and retrieves external
 information from a document store during conversations.
